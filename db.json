@@ -13,10 +13,39 @@
       "id": 5
     },
     {
-      "name": "Dr. Arthur Boyle",
+      "name": "Marian Buckridge",
       "id": 6
+    },
+    {
+      "name": "Lauren Kohler II",
+      "id": 7
+    },
+    {
+      "name": "Dawn Hudson",
+      "id": 8
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Metal Pants",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Frozen Chicken",
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "title": "Rustic Plastic Shoes",
+      "id": 13
+    }
+  ],
   "photos": []
 }
