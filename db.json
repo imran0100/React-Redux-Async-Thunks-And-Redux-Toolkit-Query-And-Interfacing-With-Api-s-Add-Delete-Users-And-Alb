@@ -27,19 +27,9 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
       "userId": 1,
       "title": "Incredible Metal Pants",
       "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Frozen Chicken",
-      "id": 12
     },
     {
       "userId": 5,
@@ -57,26 +47,6 @@
       "id": 15
     },
     {
-      "userId": 1,
-      "title": "Handmade Fresh Soap",
-      "id": 16
-    },
-    {
-      "userId": 1,
-      "title": "Ergonomic Concrete Cheese",
-      "id": 17
-    },
-    {
-      "userId": 1,
-      "title": "Handmade Concrete Chips",
-      "id": 18
-    },
-    {
-      "userId": 1,
-      "title": "Luxurious Wooden Computer",
-      "id": 19
-    },
-    {
       "userId": 2,
       "title": "Tasty Concrete Towels",
       "id": 20
@@ -87,24 +57,9 @@
       "id": 21
     },
     {
-      "userId": 1,
-      "title": "Rustic Fresh Computer",
-      "id": 22
-    },
-    {
       "userId": 5,
       "title": "Licensed Cotton Soap",
       "id": 23
-    },
-    {
-      "userId": 1,
-      "title": "Sleek Plastic Soap",
-      "id": 24
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Granite Table",
-      "id": 25
     },
     {
       "userId": 8,
@@ -125,7 +80,28 @@
       "userId": 8,
       "title": "Tasty Plastic Car",
       "id": 29
+    },
+    {
+      "userId": 7,
+      "title": "Intelligent Metal Tuna",
+      "id": 30
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Fresh Sausages",
+      "id": 31
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=70214",
+      "id": 1
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/150/150/abstract?lock=36047",
+      "id": 2
+    }
+  ]
 }
